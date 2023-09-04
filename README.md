@@ -37,6 +37,6 @@ pip install -r requirements.txt
 After successfully installing the requirements, you can run the application with the following command:
 
 ```bash
-python main.py
+python app.py
 ```
 This command will start the application and execute the `main.py` script, allowing you to interact with the application as intended.
