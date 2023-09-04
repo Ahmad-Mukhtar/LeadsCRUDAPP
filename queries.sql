@@ -1,4 +1,3 @@
-create database leads;
 use leads;
 CREATE TABLE leadsinfo (
    ID int NOT NULL AUTO_INCREMENT,
